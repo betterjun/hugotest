@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+<<<<<<< HEAD
     <loc>http://www.zhengaoxiao.cn/index.html</loc>
     <lastmod>2016-11-20T13:16:07+08:00</lastmod>
   </url>
@@ -479,6 +480,24 @@
   <url>
     <loc>http://www.zhengaoxiao.cn/page/%E9%A5%BA%E5%AD%90%E5%AE%9D%E5%AE%9D%E7%AE%80%E7%AC%94%E7%94%BB.html</loc>
     <lastmod>2016-11-20T13:16:07+08:00</lastmod>
+=======
+    <loc>https://betterjun.github.io/hugotest/</loc>
+    <lastmod>2016-11-03T14:43:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://betterjun.github.io/hugotest/post/first/</loc>
+    <lastmod>2016-11-03T14:43:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://betterjun.github.io/hugotest/about/</loc>
+    <lastmod>2016-11-03T14:42:32+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://betterjun.github.io/hugotest/post/second/</loc>
+>>>>>>> 48fc3fcca147c81617312e8792dbd068e778bcfa
   </url>
   
 </urlset>
